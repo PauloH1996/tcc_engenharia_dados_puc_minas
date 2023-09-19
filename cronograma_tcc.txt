@@ -1,0 +1,84 @@
+CRONOGRAMA TCC - ENGENHARIA DE DADOS 
+OBJETIVO É DEDICAR DE 30MIN A 1H POR DIA.
+
+JULHO
+DIA 
+20 - Vou ler todos os quesitos da orientações - DONE!
+
+21 - Consolidar bem o tema para o TCC - DONE! 
+	TEMA- PROJEÇÃO DA POPULAÇÃO ... API DO IBGE
+
+22 - Configurar ambiente python, definir bases que irão virar tabela - DONE!
+	AGREGADOS SERÃO IGUAIS A DATASET
+	7362- Esperança de vida ao nascer e Taxa de mortalidade infantil, por sexo
+	7360- Indicadores implícitos na projeção da população
+	7358- População, por sexo e idade
+	7365- Proporção de pessoas, por grupo de idade
+		VARIAVEIS SERÃO IGUAIS A TABELA 
+
+23 - domingo não, né 
+24 - Desenhar fluxos e processos - DONE! 
+	LUCID
+
+25 - Definir banco de dados utilizado - DONE!
+
+SETEMBRO
+05 - ' '
+
+06 - ' '
+
+07 - Criar script para inserir dados no postgres pt1 - DONE!
+
+08 - Criar script para inserir dados no postgres pt2 - DONE!
+
+09 - domingo não, né 
+
+11 - ' '  
+
+12 - Criação de liguagem SQL para camada RAW pt1 - DONE!
+
+13 - Criação de liguagem SQL para camada RAW pt2 - DONE!
+
+14 - Criação de liguagem SQL para camada TRUSTED pt1 - DONE!
+
+15 - Criação de liguagem SQL para camada REFINED pt1 - DONE!
+
+16 - Criação de liguagem SQL para camada REFINED pt2 e conectar base de dados no PowerBI - DONE!
+
+17 -
+
+18 -
+
+19 - 
+
+20 -
+
+21 -
+
+22 -
+
+23 -
+
+24 -
+
+25 - 
+
+26 -
+
+27 - 
+
+28 - 
+
+29 - 
+
+30 -
+
+
+AGOSTO 
+DIA
+1 - Avançar no template de doc para entrega
+2 - Avançar no template de doc para entrega
+3 - Avançar no template de doc para entrega
+4 - Gravar o vídeo de 5min apresentando o TCC
+5 - Gravar o vídeo de 5min apresentando o TCC
+6 - Entrega 
