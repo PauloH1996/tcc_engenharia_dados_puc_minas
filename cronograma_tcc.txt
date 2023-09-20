@@ -45,13 +45,13 @@ SETEMBRO
 
 16 - Criação de liguagem SQL para camada REFINED pt2 e conectar base de dados no PowerBI - DONE!
 
-17 -
+17 - domingo não, né 
 
-18 -
+18 - Entender dados de tabelas e criação de tb_fato - DONE!
 
-19 - 
+19 - Como exportar database do postgres para vscode e avancei com mais 2 visualizações - DONE!
 
-20 -
+20 - 
 
 21 -
 
