@@ -51,11 +51,11 @@ SETEMBRO
 
 19 - Como exportar database do postgres para vscode e avancei com mais 2 visualizações - DONE!
 
-20 - 
+20 - não consegui mexer..
 
-21 -
+21 - fechar os gráficos do PowerBI - DONE! 
 
-22 -
+22 - iniciar documentação ... 
 
 23 -
 
