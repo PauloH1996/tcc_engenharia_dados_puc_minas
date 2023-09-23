@@ -55,9 +55,9 @@ SETEMBRO
 
 21 - fechar os gráficos do PowerBI - DONE! 
 
-22 - iniciar documentação ... 
+22 - iniciar documentação, substituir dados do template e dar uma olhada no que escrever - DONE!
 
-23 -
+23 - escrever a introdução inteira - DONE! 
 
 24 -
 
