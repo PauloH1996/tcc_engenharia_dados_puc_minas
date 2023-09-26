@@ -57,13 +57,13 @@ SETEMBRO
 
 22 - iniciar documentação, substituir dados do template e dar uma olhada no que escrever - DONE!
 
-23 - escrever a introdução inteira - DONE! 
+23 - escrever a introdução inteira pt1 - DONE! 
 
-24 -
+24 - domingo não, né 
 
-25 - 
-
-26 -
+25 - escrever a introdução inteira pt2 - DONE!
+    
+26 - escrever Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura
 
 27 - 
 
@@ -73,12 +73,18 @@ SETEMBRO
 
 30 -
 
-
-AGOSTO 
+OUTUBRO
 DIA
 1 - Avançar no template de doc para entrega
+
 2 - Avançar no template de doc para entrega
+
 3 - Avançar no template de doc para entrega
+
 4 - Gravar o vídeo de 5min apresentando o TCC
+
 5 - Gravar o vídeo de 5min apresentando o TCC
-6 - Entrega 
+
+6 -  
+
+7 - Entrega
