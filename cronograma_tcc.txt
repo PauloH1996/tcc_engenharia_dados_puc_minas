@@ -63,9 +63,9 @@ SETEMBRO
 
 25 - escrever a introdução inteira pt2 - DONE!
     
-26 - escrever Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura
+26 - escrever Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt1 - Done! 
 
-27 - 
+27 - finalizar Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt2
 
 28 - 
 
