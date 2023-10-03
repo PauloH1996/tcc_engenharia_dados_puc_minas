@@ -63,28 +63,28 @@ SETEMBRO
 
 25 - escrever a introdução inteira pt2 - DONE!
     
-26 - escrever Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt1 - Done! 
+26 - escrever Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt1 - DONE! 
 
-27 - finalizar Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt2
+27 - finalizar Modelagem conceitual e definição das Tecnologias/Ferramentas/Arquitetura pt2 - DONE!
 
-28 - 
+28 - iniciar topico de ingestão dos dados 
 
-29 - 
+29 - finalizar ingestão dos dados e inicar orquestração(discorrer sobre as camadas? ou colocar na própira ingestão?) 
 
-30 -
+30 - finalizar orquestração |  iniciar e finalizar visualizações
 
 OUTUBRO
 DIA
-1 - Avançar no template de doc para entrega
+1 - domingo não, né 
 
-2 - Avançar no template de doc para entrega
+2 - revisar e ajustar sumario, referencias e outros tópicos
 
-3 - Avançar no template de doc para entrega
+3 - outra revisão com leitura pra fechar o doc e colocar em pdf 
 
-4 - Gravar o vídeo de 5min apresentando o TCC
+4 - estudar e montar roteiro para gravar o video
 
-5 - Gravar o vídeo de 5min apresentando o TCC
+5 - testar de gravação do vídeo e gravação
 
-6 -  
+6 - revisar o trabalho inteiro ,acertar o que tiver que acertar.  
 
 7 - Entrega
