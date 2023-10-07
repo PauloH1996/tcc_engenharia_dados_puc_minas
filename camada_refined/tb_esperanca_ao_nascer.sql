@@ -1,6 +1,6 @@
 --variavel = tabela refined  
 --agregador = tabelas raw/trusted
-CREATE TABLE dados_refined.c AS (
+CREATE TABLE dados_refined.tb_esperanca_ao_nascer AS (
 WITH refinando_pt1 AS ( 
 	SELECT *
 	FROM dados_trusted.tb_trusted_esp_vida_tx_mortalidade

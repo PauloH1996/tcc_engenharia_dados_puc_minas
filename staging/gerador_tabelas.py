@@ -35,7 +35,7 @@ class IBGEQueryBuilder:
 
 if __name__ == "__main__":
     # Definindo url de Esperança de vida ao nascer e Taxa de mortalidade infantil, por sexo conforme print .
-    ibge_base_url = "https://servicodados.ibge.gov.br/api/v3/agregados/7363/periodos/2018/variaveis/10614?localidades=N1[all]&classificacao=950[all]|1933[all]"
+    ibge_base_url = "https://servicodados.ibge.gov.br/api/v3/agregados/7362/periodos/2018/variaveis/2503|1940?localidades=N1[all]&classificacao=2[4,5]|1933[all]"
 
     # Criando a instância IBGEQueryBuilder.
     ibge_query_builder = IBGEQueryBuilder(ibge_base_url)
@@ -63,7 +63,7 @@ if __name__ == "__main__":
     #quinta tabela  
     #tb_raw_fecundidade
 # Nome da tabela onde você deseja inserir os dados
-nome_da_tabela = 'tb_raw_fecundidade'
+nome_da_tabela = 'tb_raw_esp_vida_tx_mortalidade'
 
 schema = 'dados_raw'
 
